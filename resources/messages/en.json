@@ -1,0 +1,67 @@
+{
+    "Header": {
+        "site_title": "STEPHEN KO",
+        "home_link_label": "Go to homepage",
+        "navigation_label": "Site navigation"
+    },
+    "NameCard": {
+        "section_label": "Personal introduction and contact information",
+        "signature_alt": "Stephen Ko's signature",
+        "profile_alt": "Stephen Ko's profile photo",
+        "name": "Stephen Ko",
+        "job_title": "Frontend Software Engineer, based in Singapore",
+        "location_flag_label": "Singapore flag",
+        "social_links_label": "Social media links",
+        "linkedin_label": "Visit Stephen's LinkedIn profile (opens in new tab)",
+        "email_label": "Send email to Stephen",
+        "github_label": "Visit Stephen's GitHub profile (opens in new tab)"
+    },
+    "SectionHeader": {
+        "live_project": "Live Deployed Web Projects",
+        "github_projects": "GitHub Projects",
+        "certs": "Certifications"
+    },
+    "ProjectSection": {
+        "view_more": "View more projects"
+    },
+    "Certifications": {
+        "section_label": "Professional certifications and credentials",
+        "issued_label": "Issued",
+        "verify_label": "Verify",
+        "aws_saa": {
+            "name": "Solutions Architect - Associate",
+            "issuer": "Amazon Web Services",
+            "badge_alt": "AWS Solutions Architect Associate certification badge"
+        },
+        "lfcs": {
+            "name": "Linux Foundation Certified Systems Administrator",
+            "issuer": "The Linux Foundation",
+            "badge_alt": "Linux Foundation Certified Systems Administrator badge"
+        }
+    },
+    "Projects": {
+        "wink": {
+            "desc": "Experimental flutter app for pinginig close range distance using core-bluetooth"
+        },
+        "temppi": {
+            "desc": "IoT project using RaspberryPi 1 module with thermometer sensor to detect room temperature"
+        },
+        "onion": {
+            "desc": "Satire detection Natural Language Processing project"
+        },
+        "covid": {
+            "desc": "Covid19 SaarS detection from chest x-ray image analyis"
+        },
+        "foodies_trail": {
+            "desc": "3D Web Application Food Blog for Personal Projects, using three.js & Next.js"
+        },
+        "white_rabbit": {
+            "desc": "Graph Knowledge database of world’s mysteries with Neo4J, FastAPI and Next.js"
+        }
+    },
+    "Footer": {
+        "language": "Change Language",
+        "footline": "Developed by Gi Hun Ko Stephen",
+        "app_version": "App Version"
+    }
+}
