@@ -63,5 +63,15 @@
         "language": "更改语言",
         "footline": "由 Gi Hun Ko Stephen 开发",
         "app_version": "应用版本"
+    },
+    "ProjectCard": {
+        "website": "网站",
+        "github": "GitHub"
+    },
+    "WebHealthIndicator": {
+        "status_live": "网站运行正常且响应迅速",
+        "status_slow": "网站运行缓慢或部分可用",
+        "status_down": "网站无法访问",
+        "status_unknown": "网站状态未知"
     }
 }

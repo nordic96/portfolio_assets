@@ -63,5 +63,15 @@
         "language": "Taal wijzigen",
         "footline": "Ontwikkeld door Gi Hun Ko Stephen",
         "app_version": "App-versie"
+    },
+    "ProjectCard": {
+        "website": "Website",
+        "github": "Github"
+    },
+    "WebHealthIndicator": {
+        "status_live": "Website is actief en reageert",
+        "status_slow": "Website is traag of gedeeltelijk beschikbaar",
+        "status_down": "Website is niet bereikbaar",
+        "status_unknown": "Status van de website is onbekend"
     }
 }
