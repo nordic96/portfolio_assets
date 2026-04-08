@@ -16,6 +16,9 @@
         "email_label": "Stephen にメールを送る",
         "github_label": "Stephen の GitHub プロフィールを見る（新しいタブで開く）"
     },
+    "MetadataSection": {
+        "spotify_top_artists": "私のSpotifyトップアーティスト"
+    },
     "SectionHeader": {
         "live_project": "公開中の Web プロジェクト",
         "github_projects": "GitHub プロジェクト",

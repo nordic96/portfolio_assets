@@ -16,6 +16,9 @@
         "email_label": "Stuur e-mail naar Stephen",
         "github_label": "Bezoek Stephen's GitHub-profiel (opent in nieuw tabblad)"
     },
+    "MetadataSection": {
+        "spotify_top_artists": "Mijn Spotify-favorieten"
+    },
     "SectionHeader": {
         "live_project": "Live Geïmplementeerde Webprojecten",
         "github_projects": "GitHub Projecten",

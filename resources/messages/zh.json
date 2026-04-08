@@ -16,6 +16,9 @@
         "email_label": "给 Stephen 发送邮件",
         "github_label": "访问 Stephen 的 GitHub 个人资料（在新标签页打开）"
     },
+    "MetadataSection": {
+        "spotify_top_artists": "我的Spotify热门歌手"
+    },
     "SectionHeader": {
         "live_project": "已上线的 Web 项目",
         "github_projects": "GitHub 项目",
