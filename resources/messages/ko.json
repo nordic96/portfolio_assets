@@ -17,7 +17,9 @@
         "github_label": "고기훈의 GitHub 프로필 방문 (새 탭에서 열림)"
     },
     "MetadataSection": {
-        "spotify_top_artists": "내 스포티파이 인기 아티스트"
+        "spotify_top_artists": "내 스포티파이 인기 아티스트",
+        "currently_reading": "현재 독서중인 책",
+        "completed_reading": "읽은 책"
     },
     "SectionHeader": {
         "live_project": "배포된 웹 프로젝트",

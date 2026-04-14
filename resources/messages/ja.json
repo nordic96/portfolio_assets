@@ -17,7 +17,9 @@
         "github_label": "Stephen の GitHub プロフィールを見る（新しいタブで開く）"
     },
     "MetadataSection": {
-        "spotify_top_artists": "私のSpotifyトップアーティスト"
+        "spotify_top_artists": "私のSpotifyトップアーティスト",
+        "currently_reading": "現在読んでいる本",
+        "completed_reading": "読み終わった"
     },
     "SectionHeader": {
         "live_project": "公開中の Web プロジェクト",

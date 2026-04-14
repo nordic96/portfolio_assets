@@ -17,7 +17,9 @@
         "github_label": "Bezoek Stephen's GitHub-profiel (opent in nieuw tabblad)"
     },
     "MetadataSection": {
-        "spotify_top_artists": "Mijn Spotify-favorieten"
+        "spotify_top_artists": "Mijn Spotify-favorieten",
+        "currently_reading": "Momenteel leesboek",
+        "completed_reading": "Voltooide lezing"
     },
     "SectionHeader": {
         "live_project": "Live Geïmplementeerde Webprojecten",

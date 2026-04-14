@@ -17,7 +17,9 @@
         "github_label": "访问 Stephen 的 GitHub 个人资料（在新标签页打开）"
     },
     "MetadataSection": {
-        "spotify_top_artists": "我的Spotify热门歌手"
+        "spotify_top_artists": "我的Spotify热门歌手",
+        "currently_reading": "目前正在读的书",
+        "completed_reading": "已完成阅读"
     },
     "SectionHeader": {
         "live_project": "已上线的 Web 项目",
