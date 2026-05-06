@@ -78,5 +78,9 @@
         "status_slow": "Website is traag of gedeeltelijk beschikbaar",
         "status_down": "Website is niet bereikbaar",
         "status_unknown": "Status van de website is onbekend"
+    },
+    "SandBoxPage": {
+        "header": "Welkom op mijn geheime sandbox-pagina! Niets serieus hier, alleen wat coole nieuwe technieken en frontend-concepten die ik vrijelijk wilde uitproberen!",
+        "btn_back_to_homepage": "Terug naar de startpagina"
     }
 }

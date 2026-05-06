@@ -78,5 +78,9 @@
         "status_slow": "网站运行缓慢或部分可用",
         "status_down": "网站无法访问",
         "status_unknown": "网站状态未知"
+    },
+    "SandBoxPage": {
+        "header": "欢迎来到我的秘密沙盒页面！这里没什么正经的，只是展示一些我想自由动手尝试的炫酷新技术和前端概念！",
+        "btn_back_to_homepage": "返回主页"
     }
 }
