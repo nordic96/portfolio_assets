@@ -17,7 +17,7 @@
         "github_label": "고기훈의 GitHub 프로필 방문 (새 탭에서 열림)"
     },
     "MetadataSection": {
-        "spotify_top_artists": "내 스포티파이 인기 아티스트",
+        "spotify_top_artists": "나의 인기 아티스트 (자료제공: 스포티파이)",
         "currently_reading": "현재 독서중인 책",
         "completed_reading": "읽은 책"
     },
@@ -82,5 +82,9 @@
     "SandBoxPage": {
         "header": "나의 비밀 샌드박스 페이지에 오신 것을 환영합니다! 특별한 건 없고, 그냥 자유롭게 직접 해보고 싶었던 새롭고 멋진 기술이나 프론트엔드 개념들을 보여주는 곳이에요!",
         "btn_back_to_homepage": "홈페이지로 돌아가기"
+    },
+    "TopTracksSection": {
+        "header": "현재 탑 8 음악",
+        "disclaimer": "아티스트 및 음악 데이터 제공 - 스포티파이"
     }
 }

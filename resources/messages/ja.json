@@ -17,7 +17,7 @@
         "github_label": "Stephen の GitHub プロフィールを見る（新しいタブで開く）"
     },
     "MetadataSection": {
-        "spotify_top_artists": "私のSpotifyトップアーティスト",
+        "spotify_top_artists": "私のトップアーティスト（データ提供：Spotify）",
         "currently_reading": "現在読んでいる本",
         "completed_reading": "読み終わった"
     },
@@ -82,5 +82,9 @@
     "SandBoxPage": {
         "header": "秘密のサンドボックスページへようこそ！大したことはありません。自由に試してみたかった新しいクールなテクニックやフロントエンドの概念を紹介しているだけです！",
         "btn_back_to_homepage": "ホームページに戻る"
+    },
+    "TopTracksSection": {
+        "header": "私のトップ8トラック",
+        "disclaimer": "楽曲およびアーティストデータはSpotifyより提供されています。"
     }
 }

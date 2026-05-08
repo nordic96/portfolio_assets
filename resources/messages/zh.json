@@ -17,7 +17,7 @@
         "github_label": "访问 Stephen 的 GitHub 个人资料（在新标签页打开）"
     },
     "MetadataSection": {
-        "spotify_top_artists": "我的Spotify热门歌手",
+        "spotify_top_artists": "我最喜欢的艺人（数据由Spotify提供）",
         "currently_reading": "目前正在读的书",
         "completed_reading": "已完成阅读"
     },
@@ -82,5 +82,9 @@
     "SandBoxPage": {
         "header": "欢迎来到我的秘密沙盒页面！这里没什么正经的，只是展示一些我想自由动手尝试的炫酷新技术和前端概念！",
         "btn_back_to_homepage": "返回主页"
+    },
+    "TopTracksSection": {
+        "header": "我最喜欢的8首歌",
+        "disclaimer": "歌曲和艺人数据由 Spotify 提供"
     }
 }
